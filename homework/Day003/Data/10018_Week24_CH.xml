@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
-  <identifier>e01d8435-3167-467b-a756-12fc3627c3e9</identifier>
+  <identifier>41d35e25-f6f7-4d18-8374-ba8b945b8744</identifier>
   <sender>weather@cwb.gov.tw</sender>
-  <sent>2019-06-28T12:22:55+08:00</sent>
+  <sent>2020-02-26T00:21:14+08:00</sent>
   <status>Actual</status>
   <scope>Public</scope>
   <msgType>Issue</msgType>
@@ -12,12 +12,12 @@
     <datasetInfo>
       <datasetDescription>臺灣各縣市鄉鎮未來1週逐24小時天氣預報</datasetDescription>
       <datasetLanguage>zh-TW</datasetLanguage>
-      <issueTime>2019-06-28T11:00:00+08:00</issueTime>
+      <issueTime>2020-02-25T23:00:00+08:00</issueTime>
       <validTime>
-        <startTime>2019-06-28T12:00:00+08:00</startTime>
-        <endTime>2019-07-06T11:00:00+08:00</endTime>
+        <startTime>2020-02-26T00:00:00+08:00</startTime>
+        <endTime>2020-03-04T23:00:00+08:00</endTime>
       </validTime>
-      <update>2019-06-28T12:22:55+08:00</update>
+      <update>2020-02-26T00:21:14+08:00</update>
     </datasetInfo>
     <locations>
       <locationsName>新竹市</locationsName>
@@ -30,58 +30,58 @@
           <elementName>T</elementName>
           <description>平均溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>31</value>
+              <value>21</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>21</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -90,58 +90,58 @@
           <elementName>Td</elementName>
           <description>平均露點溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>27</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>27</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>25</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>25</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -150,58 +150,58 @@
           <elementName>RH</elementName>
           <description>平均相對濕度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>81</value>
+              <value>79</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>82</value>
+              <value>76</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
               <value>80</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>82</value>
+              <value>78</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>89</value>
+              <value>80</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>82</value>
+              <value>79</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>83</value>
+              <value>77</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -210,58 +210,58 @@
           <elementName>MaxT</elementName>
           <description>最高溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>33</value>
+              <value>25</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>32</value>
+              <value>23</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>32</value>
+              <value>23</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>31</value>
+              <value>24</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>32</value>
+              <value>25</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>31</value>
+              <value>22</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>23</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -270,58 +270,58 @@
           <elementName>MinT</elementName>
           <description>最低溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>27</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>27</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>27</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -330,58 +330,58 @@
           <elementName>MaxAT</elementName>
           <description>最高體感溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>36</value>
+              <value>24</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>36</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>36</value>
+              <value>22</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>37</value>
+              <value>25</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>36</value>
+              <value>25</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>35</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>34</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -390,58 +390,58 @@
           <elementName>MinAT</elementName>
           <description>最低體感溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>33</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>11</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>13</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -450,58 +450,58 @@
           <elementName>MaxCI</elementName>
           <description>最大舒適度指數</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>23</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>21</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>22</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>23</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>23</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>21</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>21</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -510,58 +510,58 @@
           <elementName>MinCI</elementName>
           <description>最小舒適度指數</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>18</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>17</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>25</value>
+              <value>17</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>25</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -570,56 +570,56 @@
           <elementName>PoP24h</elementName>
           <description>24小時降雨機率</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
               <value> </value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
+            <elementValue>
+              <value> </value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
+            <elementValue>
+              <value> </value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
               <value> </value>
               <measures>百分比</measures>
@@ -630,56 +630,56 @@
           <elementName>WD</elementName>
           <description>風向</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>東南風</value>
+              <measures>16方位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>東北風</value>
+              <measures>16方位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
               <value>偏西風</value>
               <measures>16方位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>西南風</value>
+              <value>東南風</value>
               <measures>16方位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>西南風</value>
+              <value>東南風</value>
               <measures>16方位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>西南風</value>
+              <value>東北風</value>
               <measures>16方位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>西南風</value>
-              <measures>16方位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>西北風</value>
-              <measures>16方位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
               <value>東北風</value>
               <measures>16方位</measures>
@@ -690,22 +690,58 @@
           <elementName>WS</elementName>
           <description>最大風速</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>4</value>
+              <value>8</value>
               <measures>公尺/秒</measures>
             </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
             <elementValue>
               <value>5</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>&gt;= 11</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>&gt;= 6</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>6</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>4</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>3</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>2</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>4</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
@@ -714,62 +750,26 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>9</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
             <elementValue>
               <value>5</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>3</value>
+              <value>7</value>
               <measures>公尺/秒</measures>
             </elementValue>
-            <elementValue>
-              <value>2</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
             <elementValue>
               <value>4</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>4</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>2</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>2</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -778,8 +778,44 @@
           <elementName>Wx</elementName>
           <description>天氣現象</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
               <value>晴時多雲</value>
               <measures>自定義 Wx 文字</measures>
@@ -790,8 +826,8 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
               <value>多雲</value>
               <measures>自定義 Wx 文字</measures>
@@ -802,62 +838,26 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲</value>
+              <value>多雲時晴</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>04</value>
+              <value>03</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲午後短暫雷陣雨</value>
+              <value>多雲時晴</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>22</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲午後短暫雷陣雨</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>22</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲午後短暫雷陣雨</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>22</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲午後短暫雷陣雨</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>22</value>
+              <value>03</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -866,46 +866,46 @@
           <elementName>UVI</elementName>
           <description>紫外獻指數</description>
           <time>
-            <startTime>2019-06-28T06:00:00+08:00</startTime>
-            <endTime>2019-06-28T18:00:00+08:00</endTime>
+            <startTime>2020-02-26T06:00:00+08:00</startTime>
+            <endTime>2020-02-26T18:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>過量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T06:00:00+08:00</startTime>
-            <endTime>2019-06-29T18:00:00+08:00</endTime>
+            <startTime>2020-02-27T06:00:00+08:00</startTime>
+            <endTime>2020-02-27T18:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>過量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T06:00:00+08:00</startTime>
-            <endTime>2019-06-30T18:00:00+08:00</endTime>
+            <startTime>2020-02-28T06:00:00+08:00</startTime>
+            <endTime>2020-02-28T18:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>4</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>過量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T06:00:00+08:00</startTime>
-            <endTime>2019-07-01T18:00:00+08:00</endTime>
+            <startTime>2020-02-29T06:00:00+08:00</startTime>
+            <endTime>2020-02-29T18:00:00+08:00</endTime>
             <elementValue>
-              <value>7</value>
+              <value>6</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -914,38 +914,38 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T06:00:00+08:00</startTime>
-            <endTime>2019-07-02T18:00:00+08:00</endTime>
+            <startTime>2020-03-01T06:00:00+08:00</startTime>
+            <endTime>2020-03-01T18:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>高量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T06:00:00+08:00</startTime>
-            <endTime>2019-07-03T18:00:00+08:00</endTime>
+            <startTime>2020-03-02T06:00:00+08:00</startTime>
+            <endTime>2020-03-02T18:00:00+08:00</endTime>
             <elementValue>
-              <value>7</value>
+              <value>4</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>高量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T06:00:00+08:00</startTime>
-            <endTime>2019-07-04T18:00:00+08:00</endTime>
+            <startTime>2020-03-03T06:00:00+08:00</startTime>
+            <endTime>2020-03-03T18:00:00+08:00</endTime>
             <elementValue>
-              <value>7</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>高量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
@@ -954,58 +954,58 @@
           <elementName>WeatherDescription</elementName>
           <description>天氣預報綜合描述</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。降雨機率 10%。溫度攝氏29至33度。悶熱。偏西風 風速3級(每秒4公尺)。相對濕度81%。</value>
+              <value>多雲。降雨機率 0%。溫度攝氏18至25度。稍有寒意至舒適。東南風 風速5級(每秒8公尺)。相對濕度79%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲。降雨機率 0%。溫度攝氏27至32度。舒適至悶熱。西南風 風速3級(每秒5公尺)。相對濕度82%。</value>
+              <value>多雲。降雨機率 0%。溫度攝氏16至23度。稍有寒意至舒適。東北風 風速&gt;= 6級(每秒12公尺)。相對濕度76%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲。降雨機率 10%。溫度攝氏27至32度。舒適至悶熱。西南風 風速3級(每秒5公尺)。相對濕度80%。</value>
+              <value>多雲。降雨機率 0%。溫度攝氏17至23度。稍有寒意至舒適。偏西風 風速4級(每秒6公尺)。相對濕度80%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲午後短暫雷陣雨。降雨機率 30%。溫度攝氏27至31度。舒適至悶熱。西南風 風速2級(每秒3公尺)。相對濕度83%。</value>
+              <value>晴時多雲。溫度攝氏17至24度。稍有寒意至舒適。東南風 風速2級(每秒3公尺)。相對濕度78%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲午後短暫雷陣雨。降雨機率 10%。溫度攝氏26至32度。舒適至悶熱。西南風 風速3級(每秒4公尺)。相對濕度89%。</value>
+              <value>多雲。溫度攝氏17至25度。稍有寒意至舒適。東南風 風速3級(每秒4公尺)。相對濕度80%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲午後短暫雷陣雨。溫度攝氏26至31度。舒適至悶熱。西北風 風速3級(每秒4公尺)。相對濕度82%。</value>
+              <value>多雲時晴。溫度攝氏17至22度。稍有寒意至舒適。東北風 風速5級(每秒9公尺)。相對濕度79%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲午後短暫雷陣雨。溫度攝氏26至30度。舒適至悶熱。東北風 風速2級(每秒2公尺)。相對濕度83%。</value>
+              <value>多雲時晴。溫度攝氏16至23度。稍有寒意至舒適。東北風 風速4級(每秒7公尺)。相對濕度77%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1020,58 +1020,58 @@
           <elementName>T</elementName>
           <description>平均溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>31</value>
+              <value>21</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>21</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -1080,58 +1080,58 @@
           <elementName>Td</elementName>
           <description>平均露點溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>27</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -1140,58 +1140,58 @@
           <elementName>RH</elementName>
           <description>平均相對濕度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>85</value>
+              <value>82</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>86</value>
+              <value>79</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>83</value>
+              <value>84</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>86</value>
+              <value>82</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>91</value>
+              <value>84</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>86</value>
+              <value>82</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>86</value>
+              <value>80</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -1200,58 +1200,58 @@
           <elementName>MaxT</elementName>
           <description>最高溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>33</value>
+              <value>24</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>32</value>
+              <value>23</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>32</value>
+              <value>23</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>31</value>
+              <value>24</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>32</value>
+              <value>25</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>23</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>23</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -1260,58 +1260,58 @@
           <elementName>MinT</elementName>
           <description>最低溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>27</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>27</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>27</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -1320,58 +1320,58 @@
           <elementName>MaxAT</elementName>
           <description>最高體感溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>36</value>
+              <value>24</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>36</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>36</value>
+              <value>22</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>38</value>
+              <value>25</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>36</value>
+              <value>26</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>35</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>35</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -1380,58 +1380,58 @@
           <elementName>MinAT</elementName>
           <description>最低體感溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>33</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>11</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>12</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -1440,58 +1440,58 @@
           <elementName>MaxCI</elementName>
           <description>最大舒適度指數</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>31</value>
+              <value>23</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>21</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>22</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>23</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>23</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>21</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>21</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1500,58 +1500,58 @@
           <elementName>MinCI</elementName>
           <description>最小舒適度指數</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>18</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>17</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>17</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>25</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -1560,56 +1560,56 @@
           <elementName>PoP24h</elementName>
           <description>24小時降雨機率</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>30</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
               <value> </value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
+            <elementValue>
+              <value> </value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
+            <elementValue>
+              <value> </value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
               <value> </value>
               <measures>百分比</measures>
@@ -1620,56 +1620,56 @@
           <elementName>WD</elementName>
           <description>風向</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>西南風</value>
+              <value>東南風</value>
               <measures>16方位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>西南風</value>
+              <value>東北風</value>
               <measures>16方位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>西南風</value>
-              <measures>16方位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>西南風</value>
-              <measures>16方位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
               <value>西北風</value>
               <measures>16方位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>西北風</value>
+              <value>偏南風</value>
               <measures>16方位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>東南風</value>
+              <measures>16方位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>東北風</value>
+              <measures>16方位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
               <value>東北風</value>
               <measures>16方位</measures>
@@ -1680,22 +1680,46 @@
           <elementName>WS</elementName>
           <description>最大風速</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>4</value>
+              <value>9</value>
               <measures>公尺/秒</measures>
             </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
             <elementValue>
               <value>5</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>&gt;= 11</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>&gt;= 6</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>6</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>4</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>4</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
@@ -1704,62 +1728,38 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>4</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>3</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>9</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
             <elementValue>
               <value>5</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>3</value>
+              <value>8</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>2</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>4</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>4</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>2</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>2</value>
+              <value>5</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -1768,8 +1768,44 @@
           <elementName>Wx</elementName>
           <description>天氣現象</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
               <value>晴時多雲</value>
               <measures>自定義 Wx 文字</measures>
@@ -1780,8 +1816,8 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
               <value>多雲</value>
               <measures>自定義 Wx 文字</measures>
@@ -1792,62 +1828,26 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲</value>
+              <value>多雲時晴</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>04</value>
+              <value>03</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨</value>
+              <value>多雲時晴</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>08</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲午後短暫雷陣雨</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>22</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲午後短暫雷陣雨</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>22</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲午後短暫雷陣雨</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>22</value>
+              <value>03</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -1856,46 +1856,46 @@
           <elementName>UVI</elementName>
           <description>紫外獻指數</description>
           <time>
-            <startTime>2019-06-28T06:00:00+08:00</startTime>
-            <endTime>2019-06-28T18:00:00+08:00</endTime>
+            <startTime>2020-02-26T06:00:00+08:00</startTime>
+            <endTime>2020-02-26T18:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>過量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T06:00:00+08:00</startTime>
-            <endTime>2019-06-29T18:00:00+08:00</endTime>
+            <startTime>2020-02-27T06:00:00+08:00</startTime>
+            <endTime>2020-02-27T18:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>過量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T06:00:00+08:00</startTime>
-            <endTime>2019-06-30T18:00:00+08:00</endTime>
+            <startTime>2020-02-28T06:00:00+08:00</startTime>
+            <endTime>2020-02-28T18:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>4</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>過量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T06:00:00+08:00</startTime>
-            <endTime>2019-07-01T18:00:00+08:00</endTime>
+            <startTime>2020-02-29T06:00:00+08:00</startTime>
+            <endTime>2020-02-29T18:00:00+08:00</endTime>
             <elementValue>
-              <value>7</value>
+              <value>6</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -1904,38 +1904,38 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T06:00:00+08:00</startTime>
-            <endTime>2019-07-02T18:00:00+08:00</endTime>
+            <startTime>2020-03-01T06:00:00+08:00</startTime>
+            <endTime>2020-03-01T18:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>高量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T06:00:00+08:00</startTime>
-            <endTime>2019-07-03T18:00:00+08:00</endTime>
+            <startTime>2020-03-02T06:00:00+08:00</startTime>
+            <endTime>2020-03-02T18:00:00+08:00</endTime>
             <elementValue>
-              <value>7</value>
+              <value>4</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>高量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T06:00:00+08:00</startTime>
-            <endTime>2019-07-04T18:00:00+08:00</endTime>
+            <startTime>2020-03-03T06:00:00+08:00</startTime>
+            <endTime>2020-03-03T18:00:00+08:00</endTime>
             <elementValue>
-              <value>7</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>高量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
@@ -1944,58 +1944,58 @@
           <elementName>WeatherDescription</elementName>
           <description>天氣預報綜合描述</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。降雨機率 0%。溫度攝氏29至33度。悶熱至易中暑。西南風 風速3級(每秒4公尺)。相對濕度85%。</value>
+              <value>多雲。降雨機率 0%。溫度攝氏18至24度。稍有寒意至舒適。東南風 風速5級(每秒9公尺)。相對濕度82%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲。降雨機率 0%。溫度攝氏27至32度。舒適至悶熱。西南風 風速3級(每秒5公尺)。相對濕度86%。</value>
+              <value>多雲。降雨機率 0%。溫度攝氏16至23度。稍有寒意至舒適。東北風 風速&gt;= 6級(每秒13公尺)。相對濕度79%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲。降雨機率 10%。溫度攝氏27至32度。舒適至悶熱。西南風 風速3級(每秒5公尺)。相對濕度83%。</value>
+              <value>多雲。降雨機率 0%。溫度攝氏16至23度。稍有寒意至舒適。西北風 風速4級(每秒6公尺)。相對濕度84%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨。降雨機率 30%。溫度攝氏27至31度。舒適至悶熱。西南風 風速2級(每秒3公尺)。相對濕度86%。</value>
+              <value>晴時多雲。溫度攝氏16至24度。稍有寒意至舒適。偏南風 風速3級(每秒4公尺)。相對濕度82%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲午後短暫雷陣雨。降雨機率 10%。溫度攝氏26至32度。舒適至悶熱。西北風 風速3級(每秒4公尺)。相對濕度91%。</value>
+              <value>多雲。溫度攝氏17至25度。稍有寒意至舒適。東南風 風速3級(每秒4公尺)。相對濕度83%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲午後短暫雷陣雨。溫度攝氏26至30度。舒適至悶熱。西北風 風速3級(每秒4公尺)。相對濕度86%。</value>
+              <value>多雲時晴。溫度攝氏17至23度。稍有寒意至舒適。東北風 風速5級(每秒9公尺)。相對濕度82%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲午後短暫雷陣雨。溫度攝氏26至30度。舒適至悶熱。東北風 風速2級(每秒2公尺)。相對濕度86%。</value>
+              <value>多雲時晴。溫度攝氏16至23度。稍有寒意至舒適。東北風 風速5級(每秒8公尺)。相對濕度80%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -2010,58 +2010,58 @@
           <elementName>T</elementName>
           <description>平均溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>31</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2070,58 +2070,58 @@
           <elementName>Td</elementName>
           <description>平均露點溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>27</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>27</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2130,58 +2130,58 @@
           <elementName>RH</elementName>
           <description>平均相對濕度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>86</value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>83</value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
               <value>88</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>90</value>
+              <value>86</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>87</value>
+              <value>88</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>90</value>
+              <value>85</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>94</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>89</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>90</value>
+              <value>84</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
@@ -2190,58 +2190,58 @@
           <elementName>MaxT</elementName>
           <description>最高溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>32</value>
+              <value>24</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>32</value>
+              <value>24</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>32</value>
+              <value>23</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>31</value>
+              <value>24</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>32</value>
+              <value>25</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>23</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>23</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2250,58 +2250,58 @@
           <elementName>MinT</elementName>
           <description>最低溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>27</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>27</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>17</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2310,58 +2310,58 @@
           <elementName>MaxAT</elementName>
           <description>最高體感溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>36</value>
+              <value>24</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>37</value>
+              <value>18</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>36</value>
+              <value>23</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>38</value>
+              <value>25</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>36</value>
+              <value>26</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>35</value>
+              <value>19</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>35</value>
+              <value>20</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2370,58 +2370,58 @@
           <elementName>MinAT</elementName>
           <description>最低體感溫度</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>33</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>10</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>14</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>15</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>13</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>12</value>
               <measures>攝氏度</measures>
             </elementValue>
           </time>
@@ -2430,58 +2430,58 @@
           <elementName>MaxCI</elementName>
           <description>最大舒適度指數</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>31</value>
+              <value>23</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>31</value>
+              <value>22</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>22</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>23</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>30</value>
+              <value>24</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>21</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>29</value>
+              <value>22</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -2490,58 +2490,58 @@
           <elementName>MinCI</elementName>
           <description>最小舒適度指數</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>28</value>
+              <value>17</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>26</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>25</value>
+              <value>16</value>
               <measures>NA</measures>
             </elementValue>
           </time>
@@ -2550,56 +2550,56 @@
           <elementName>PoP24h</elementName>
           <description>24小時降雨機率</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
               <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>0</value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>30</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>10</value>
-              <measures>百分比</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
               <value> </value>
               <measures>百分比</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
+            <elementValue>
+              <value> </value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
+            <elementValue>
+              <value> </value>
+              <measures>百分比</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
               <value> </value>
               <measures>百分比</measures>
@@ -2610,56 +2610,56 @@
           <elementName>WD</elementName>
           <description>風向</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>西南風</value>
+              <value>東南風</value>
               <measures>16方位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>西南風</value>
+              <value>東北風</value>
               <measures>16方位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>西南風</value>
+              <value>偏東風</value>
               <measures>16方位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>西南風</value>
+              <value>偏南風</value>
               <measures>16方位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>西北風</value>
+              <value>東南風</value>
               <measures>16方位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>偏西風</value>
+              <value>東北風</value>
               <measures>16方位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
               <value>東北風</value>
               <measures>16方位</measures>
@@ -2670,22 +2670,46 @@
           <elementName>WS</elementName>
           <description>最大風速</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>4</value>
+              <value>9</value>
               <measures>公尺/秒</measures>
             </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
             <elementValue>
               <value>5</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>&gt;= 11</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>&gt;= 6</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>6</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>4</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>4</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
@@ -2694,62 +2718,38 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>4</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
+            <elementValue>
+              <value>3</value>
+              <measures>蒲福風級</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>9</value>
+              <measures>公尺/秒</measures>
+            </elementValue>
             <elementValue>
               <value>5</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>3</value>
+              <value>8</value>
               <measures>公尺/秒</measures>
             </elementValue>
             <elementValue>
-              <value>2</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>4</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>4</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>3</value>
-              <measures>蒲福風級</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>2</value>
-              <measures>公尺/秒</measures>
-            </elementValue>
-            <elementValue>
-              <value>2</value>
+              <value>5</value>
               <measures>蒲福風級</measures>
             </elementValue>
           </time>
@@ -2758,8 +2758,44 @@
           <elementName>Wx</elementName>
           <description>天氣現象</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
+            <elementValue>
+              <value>多雲</value>
+              <measures>自定義 Wx 文字</measures>
+            </elementValue>
+            <elementValue>
+              <value>04</value>
+              <measures>自定義 Wx 單位</measures>
+            </elementValue>
+          </time>
+          <time>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
               <value>晴時多雲</value>
               <measures>自定義 Wx 文字</measures>
@@ -2770,8 +2806,8 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
               <value>多雲</value>
               <measures>自定義 Wx 文字</measures>
@@ -2782,62 +2818,26 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲</value>
+              <value>多雲時晴</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>04</value>
+              <value>03</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨</value>
+              <value>多雲時晴</value>
               <measures>自定義 Wx 文字</measures>
             </elementValue>
             <elementValue>
-              <value>08</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲午後短暫雷陣雨</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>22</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲午後短暫雷陣雨</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>22</value>
-              <measures>自定義 Wx 單位</measures>
-            </elementValue>
-          </time>
-          <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
-            <elementValue>
-              <value>多雲午後短暫雷陣雨</value>
-              <measures>自定義 Wx 文字</measures>
-            </elementValue>
-            <elementValue>
-              <value>22</value>
+              <value>03</value>
               <measures>自定義 Wx 單位</measures>
             </elementValue>
           </time>
@@ -2846,46 +2846,46 @@
           <elementName>UVI</elementName>
           <description>紫外獻指數</description>
           <time>
-            <startTime>2019-06-28T06:00:00+08:00</startTime>
-            <endTime>2019-06-28T18:00:00+08:00</endTime>
+            <startTime>2020-02-26T06:00:00+08:00</startTime>
+            <endTime>2020-02-26T18:00:00+08:00</endTime>
             <elementValue>
-              <value>10</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>過量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T06:00:00+08:00</startTime>
-            <endTime>2019-06-29T18:00:00+08:00</endTime>
+            <startTime>2020-02-27T06:00:00+08:00</startTime>
+            <endTime>2020-02-27T18:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>過量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T06:00:00+08:00</startTime>
-            <endTime>2019-06-30T18:00:00+08:00</endTime>
+            <startTime>2020-02-28T06:00:00+08:00</startTime>
+            <endTime>2020-02-28T18:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>4</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>過量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T06:00:00+08:00</startTime>
-            <endTime>2019-07-01T18:00:00+08:00</endTime>
+            <startTime>2020-02-29T06:00:00+08:00</startTime>
+            <endTime>2020-02-29T18:00:00+08:00</endTime>
             <elementValue>
-              <value>7</value>
+              <value>6</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
@@ -2894,38 +2894,38 @@
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T06:00:00+08:00</startTime>
-            <endTime>2019-07-02T18:00:00+08:00</endTime>
+            <startTime>2020-03-01T06:00:00+08:00</startTime>
+            <endTime>2020-03-01T18:00:00+08:00</endTime>
             <elementValue>
-              <value>8</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>高量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T06:00:00+08:00</startTime>
-            <endTime>2019-07-03T18:00:00+08:00</endTime>
+            <startTime>2020-03-02T06:00:00+08:00</startTime>
+            <endTime>2020-03-02T18:00:00+08:00</endTime>
             <elementValue>
-              <value>7</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>高量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T06:00:00+08:00</startTime>
-            <endTime>2019-07-04T18:00:00+08:00</endTime>
+            <startTime>2020-03-03T06:00:00+08:00</startTime>
+            <endTime>2020-03-03T18:00:00+08:00</endTime>
             <elementValue>
-              <value>7</value>
+              <value>5</value>
               <measures>紫外線指數</measures>
             </elementValue>
             <elementValue>
-              <value>高量級</value>
+              <value>中量級</value>
               <measures>曝曬級數</measures>
             </elementValue>
           </time>
@@ -2934,58 +2934,58 @@
           <elementName>WeatherDescription</elementName>
           <description>天氣預報綜合描述</description>
           <time>
-            <startTime>2019-06-28T12:00:00+08:00</startTime>
-            <endTime>2019-06-29T00:00:00+08:00</endTime>
+            <startTime>2020-02-26T00:00:00+08:00</startTime>
+            <endTime>2020-02-27T00:00:00+08:00</endTime>
             <elementValue>
-              <value>晴時多雲。降雨機率 0%。溫度攝氏28至32度。悶熱至易中暑。西南風 風速3級(每秒4公尺)。相對濕度89%。</value>
+              <value>多雲。降雨機率 0%。溫度攝氏17至24度。稍有寒意至舒適。東南風 風速5級(每秒9公尺)。相對濕度85%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-29T00:00:00+08:00</startTime>
-            <endTime>2019-06-30T00:00:00+08:00</endTime>
+            <startTime>2020-02-27T00:00:00+08:00</startTime>
+            <endTime>2020-02-28T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲。降雨機率 0%。溫度攝氏27至32度。舒適至易中暑。西南風 風速3級(每秒5公尺)。相對濕度90%。</value>
+              <value>多雲。降雨機率 0%。溫度攝氏16至24度。稍有寒意至舒適。東北風 風速&gt;= 6級(每秒13公尺)。相對濕度83%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-06-30T00:00:00+08:00</startTime>
-            <endTime>2019-07-01T00:00:00+08:00</endTime>
+            <startTime>2020-02-28T00:00:00+08:00</startTime>
+            <endTime>2020-02-29T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲。降雨機率 10%。溫度攝氏27至32度。舒適至悶熱。西南風 風速3級(每秒5公尺)。相對濕度87%。</value>
+              <value>多雲。降雨機率 0%。溫度攝氏16至23度。稍有寒意至舒適。偏東風 風速4級(每秒6公尺)。相對濕度88%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-01T00:00:00+08:00</startTime>
-            <endTime>2019-07-02T00:00:00+08:00</endTime>
+            <startTime>2020-02-29T00:00:00+08:00</startTime>
+            <endTime>2020-03-01T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲短暫陣雨。降雨機率 30%。溫度攝氏26至31度。舒適至悶熱。西南風 風速2級(每秒3公尺)。相對濕度90%。</value>
+              <value>晴時多雲。溫度攝氏16至24度。稍有寒意至舒適。偏南風 風速3級(每秒4公尺)。相對濕度86%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-02T00:00:00+08:00</startTime>
-            <endTime>2019-07-03T00:00:00+08:00</endTime>
+            <startTime>2020-03-01T00:00:00+08:00</startTime>
+            <endTime>2020-03-02T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲午後短暫雷陣雨。降雨機率 10%。溫度攝氏26至32度。舒適至悶熱。西北風 風速3級(每秒4公尺)。相對濕度94%。</value>
+              <value>多雲。溫度攝氏16至25度。稍有寒意至舒適。東南風 風速3級(每秒4公尺)。相對濕度88%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-03T00:00:00+08:00</startTime>
-            <endTime>2019-07-04T00:00:00+08:00</endTime>
+            <startTime>2020-03-02T00:00:00+08:00</startTime>
+            <endTime>2020-03-03T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲午後短暫雷陣雨。溫度攝氏26至30度。舒適至悶熱。偏西風 風速3級(每秒4公尺)。相對濕度89%。</value>
+              <value>多雲時晴。溫度攝氏17至23度。稍有寒意至舒適。東北風 風速5級(每秒9公尺)。相對濕度85%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
           <time>
-            <startTime>2019-07-04T00:00:00+08:00</startTime>
-            <endTime>2019-07-05T00:00:00+08:00</endTime>
+            <startTime>2020-03-03T00:00:00+08:00</startTime>
+            <endTime>2020-03-04T00:00:00+08:00</endTime>
             <elementValue>
-              <value>多雲午後短暫雷陣雨。溫度攝氏26至30度。舒適至悶熱。東北風 風速2級(每秒2公尺)。相對濕度90%。</value>
+              <value>多雲時晴。溫度攝氏16至23度。稍有寒意至舒適。東北風 風速5級(每秒8公尺)。相對濕度84%。</value>
               <measures>NA</measures>
             </elementValue>
           </time>
